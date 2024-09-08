@@ -1,0 +1,10 @@
+1;Café Orgánico;10.92
+2;Leche en Polvo;53.79
+3;Pan Tajado;37.61
+4;Queso Doble Crema;99.37
+5;Jamón York;80.99
+6;Café Orgánico;38.89
+7;Leche en Polvo;98.88
+8;Pan Tajado;17.84
+9;Queso Doble Crema;60.71
+10;Jamón York;49.80
